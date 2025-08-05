@@ -1,0 +1,14 @@
+#Config
+#Sun Jun 15 01:09:04 BRT 2025
+cfg.autosalvarintervalo=1
+cfg.ancorador=true
+cfg.mostrargrade=true
+cfg.location.y=-8
+cfg.location.x=-8
+cfg.mostrardimensoesaomover=true
+cfg.gradelargura=23
+cfg.mostrartooltips=false
+cfg.tipodefault=0
+cfg.mostrarids=false
+cfg.recentes=C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\AutorEditora2040482412025MarianaFernandesVieira.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\Ber\u00E7arioLogico.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\Ber\u00E7arioConceitual.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\ClubeLeituraLogico.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\ClubeLeituraConceitual.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\EmpresaLogico.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\EmpresaConceitual.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\Normalizacao4Logico.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\Normalizacao3Logico2040482412025MarianaFernandesVieira.brM3;C\:\\Users\\cristiana\\Desktop\\banco_de_dados_atv\\normalizacao 1.brM3;C\:\\Users\\cristiana\\Desktop\\InstitutoPolit\u00E9cnicoLogico2040482412025MarianFernandesVieira.brM3;C\:\\Users\\cristiana\\Desktop\\InstitutoPolit\u00E9cnicoConceitual2040482412025MarianFernandesVieira.brM3;C\:\\Users\\luizl\\Downloads\\_Disciplinas 2023\\_AulasProf23\\Aula BD\\Banco\\MATERIAL DE Modelagem\\ExerciciosIniciais\\ex5.brM3;C\:\\Users\\fatecscs\\Downloads\\BD clinica\\BD clinica\\Logico_clinica.brM3;C\:\\Users\\fatecscs\\Downloads\\BD clinica\\BD clinica\\Conceitual_clinica.brM3;F\:\\Banco\\Exerc\u00EDciosModelagemBD\\Livraria_conceitual.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\CiaAerea-Conceitual_2.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\CiaAerea_L\u00F3gico_1.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\ConceitualConcessionaria2.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\modeloConceitualConcessionaria.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\LocadoraConceituall.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\Livraria_conceitual.brM3;C\:\\BEP\\Banco\\Exerc\u00EDciosModelagemBD\\empresa.brM3;C\:\\Chc\\TMP\\L\u00F3gico_1.xml;C\:\\Chc\\TMP\\BigLogico.xml;C\:\\Users\\chcan\\OneDrive\\Chc\\L\u00F3gico_RISCO.brM3;C\:\\Chc\\TMP\\brTestes\\BigLogico.xml;C\:\\Chc\\TMP\\BigLogicoComErro.brM3;C\:\\Chc\\Prg\\brModelo\\L\u00F3gico_teste.brM3;C\:\\Users\\chcan\\OneDrive\\Chc\\Conceitual_RISCO2.brM3;C\:\\Chc\\Prg\\brModelo\\L\u00F3gico_2.brM3;C\:\\Users\\chcan\\OneDrive\\Chc\\Conceitual_sis_risco.brM3;C\:\\Chc\\Prg\\brModelo\\L\u00F3gico_teste.xml;C\:\\Chc\\TMP\\L\u00F3gico_1.brM3;C\:\\Chc\\TMP\\teste.brM3;C\:\\Chc\\TMP\\Conceitual_RISCO2.xml;C\:\\Chc\\TMP\\Conceitual_RISCO2.brM3
+cfg.location.salvar=true
